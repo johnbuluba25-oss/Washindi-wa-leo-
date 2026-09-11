@@ -1,0 +1,6 @@
+{
+  "name": "WASHINDI WA LEO",
+  "description": "Jukwaa namba moja la utabiri na mikeka ya ushindi wa michezo Tanzania. Pata mikeka ya leo, VIP odds, na matokeo ya uhakika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
